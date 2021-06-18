@@ -1,0 +1,15 @@
+{
+  "name": "default-folder-x-node",
+  "version": "1.0.3",
+  "description": "NodeJS wrapper around Default Folder X's scriptable features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Roey Biran <roeybiran@icloud.com> (https://github.com/roeybiran)",
+  "license": "MIT",
+  "dependencies": {
+    "@roeybiran/task": "^1.0.1"
+  }
+}
